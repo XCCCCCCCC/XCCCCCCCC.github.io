@@ -1,0 +1,24 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neo-Chinese expanded palette">
+  <rect width="800" height="320" fill="#FFF"/>
+  <text x="24" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111">Neo-Chinese — 新中式</text>
+
+  <g transform="translate(24,48)">
+    <rect x="0" y="0" width="120" height="120" fill="#F5F1E8" stroke="#E8E2D8"/>
+    <text x="0" y="140" font-size="12" fill="#333">温乳白 / #F5F1E8</text>
+
+    <rect x="140" y="0" width="120" height="120" fill="#EDE4D6" stroke="#DCCFBF"/>
+    <text x="140" y="140" font-size="12" fill="#333">米砂 / #EDE4D6</text>
+
+    <rect x="280" y="0" width="120" height="120" fill="#5A3E2B" stroke="#452C20"/>
+    <text x="280" y="140" font-size="12" fill="#FFF">深胡桃 / #5A3E2B</text>
+
+    <rect x="420" y="0" width="120" height="120" fill="#A23C34" stroke="#7E2C27"/>
+    <text x="420" y="140" font-size="12" fill="#FFF">砖红 / #A23C34</text>
+
+    <rect x="560" y="0" width="120" height="120" fill="#1B1B1B" stroke="#000"/>
+    <text x="560" y="140" font-size="12" fill="#FFF">墨黑 / #1B1B1B</text>
+
+    <rect x="700" y="0" width="80" height="120" fill="#4B2F20"/>
+    <text x="700" y="140" font-size="12" fill="#FFF">古檀 / #4B2F20</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scandinavian style palette">
+  <rect width="600" height="360" fill="#F8F5EE"/>
+  <rect x="36" y="36" width="320" height="210" rx="12" fill="#F2EDE2" stroke="#D8CDBB"/>
+  <rect x="66" y="66" width="180" height="150" fill="#F7F3EA"/>
+  <rect x="260" y="66" width="76" height="150" fill="#D9B98F"/>
+  <rect x="312" y="80" width="6" height="120" rx="3" fill="#3B3B3B"/>
+  <rect x="376" y="36" width="88" height="88" rx="8" fill="#F7F3EA"/>
+  <rect x="476" y="36" width="88" height="88" rx="8" fill="#D9B98F"/>
+  <rect x="376" y="136" width="88" height="88" rx="8" fill="#9BAF9B"/>
+  <rect x="476" y="136" width="88" height="88" rx="8" fill="#3B3B3B"/>
+  <rect x="36" y="276" width="528" height="20" fill="#D9B98F" opacity="0.45"/>
+  <rect x="36" y="304" width="528" height="8" fill="#C9A97A" opacity="0.6"/>
+</svg>

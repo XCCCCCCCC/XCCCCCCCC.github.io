@@ -1,0 +1,24 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wabi-sabi expanded palette">
+  <rect width="800" height="320" fill="#FFF"/>
+  <text x="24" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111">Wabi-sabi — 日式侘寂</text>
+
+  <g transform="translate(24,48)">
+    <rect x="0" y="0" width="120" height="120" fill="#F3EFE8" stroke="#E6E0D6"/>
+    <text x="0" y="140" font-size="12" fill="#333">温沙白 / #F3EFE8</text>
+
+    <rect x="140" y="0" width="120" height="120" fill="#E6DED4" stroke="#D2C9BF"/>
+    <text x="140" y="140" font-size="12" fill="#333">灰泥 / #E6DED4</text>
+
+    <rect x="280" y="0" width="120" height="120" fill="#C8C1B7" stroke="#B8B2A7"/>
+    <text x="280" y="140" font-size="12" fill="#333">古灰 / #C8C1B7</text>
+
+    <rect x="420" y="0" width="120" height="120" fill="#B08B6A" stroke="#9A765A"/>
+    <text x="420" y="140" font-size="12" fill="#333">生铜 / #B08B6A</text>
+
+    <rect x="560" y="0" width="120" height="120" fill="#9E7A5D" stroke="#88684D"/>
+    <text x="560" y="140" font-size="12" fill="#333">深土 / #9E7A5D</text>
+
+    <rect x="700" y="0" width="80" height="120" fill="#4A3B32"/>
+    <text x="700" y="140" font-size="12" fill="#FFF">木墨 / #4A3B32</text>
+  </g>
+</svg>

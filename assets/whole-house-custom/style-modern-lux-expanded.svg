@@ -1,0 +1,24 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Modern Luxury expanded palette">
+  <rect width="800" height="320" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111">Modern Luxury — 现代轻奢</text>
+
+  <g transform="translate(24,48)">
+    <rect x="0" y="0" width="120" height="120" fill="#F6F6F8" stroke="#EDEDF0"/>
+    <text x="0" y="140" font-size="12" fill="#333">极浅灰 / #F6F6F8</text>
+
+    <rect x="140" y="0" width="120" height="120" fill="#E2E2E6" stroke="#D9D9DC"/>
+    <text x="140" y="140" font-size="12" fill="#333">灰白 / #E2E2E6</text>
+
+    <rect x="280" y="0" width="120" height="120" fill="#C8A34A" stroke="#B38D3E"/>
+    <text x="280" y="140" font-size="12" fill="#333">拉丝金 / #C8A34A</text>
+
+    <rect x="420" y="0" width="120" height="120" fill="#B8913F" stroke="#987437"/>
+    <text x="420" y="140" font-size="12" fill="#333">旧金 / #B8913F</text>
+
+    <rect x="560" y="0" width="120" height="120" fill="#1E4D4A" stroke="#153534"/>
+    <text x="560" y="140" font-size="12" fill="#FFF">墨绿 / #1E4D4A</text>
+
+    <rect x="700" y="0" width="80" height="120" fill="#2B2B2B"/>
+    <text x="700" y="140" font-size="12" fill="#FFF">深炭 / #2B2B2B</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Modern Minimal expanded palette">
+  <rect width="800" height="300" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111">Modern Minimal — 现代极简</text>
+
+  <!-- Swatches -->
+  <g transform="translate(24,48)">
+    <rect x="0" y="0" width="120" height="120" fill="#F5F5F5" stroke="#E0E0E0"/>
+    <text x="0" y="140" font-size="12" fill="#333">浅灰 / #F5F5F5</text>
+
+    <rect x="140" y="0" width="120" height="120" fill="#F0F0F0" stroke="#D8D8D8"/>
+    <text x="140" y="140" font-size="12" fill="#333">柔和白 / #F0F0F0</text>
+
+    <rect x="280" y="0" width="120" height="120" fill="#D9D9D9" stroke="#CFCFCF"/>
+    <text x="280" y="140" font-size="12" fill="#333">暖灰 / #D9D9D9</text>
+
+    <rect x="420" y="0" width="120" height="120" fill="#C9A67A" stroke="#B89567"/>
+    <text x="420" y="140" font-size="12" fill="#333">温木金 / #C9A67A</text>
+
+    <rect x="560" y="0" width="120" height="120" fill="#B3906C" stroke="#9E7A5A"/>
+    <text x="560" y="140" font-size="12" fill="#333">浅胡桃 / #B3906C</text>
+
+    <rect x="700" y="0" width="120" height="120" fill="#1A1A1A" stroke="#000"/>
+    <text x="700" y="140" font-size="12" fill="#FFF">玄黑 / #1A1A1A</text>
+  </g>
+</svg>

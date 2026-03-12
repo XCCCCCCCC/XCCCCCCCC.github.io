@@ -1,0 +1,25 @@
+<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Italian Modern style palette">
+  <!-- Background: Sophisticated Architectural Gray -->
+  <rect width="600" height="360" fill="#E5E5E7"/>
+
+  <!-- Main Cabinetry: Dark Rovere/Walnut Texture -->
+  <rect x="36" y="36" width="320" height="210" rx="4" fill="#3D3631" stroke="#2D2723"/>
+
+  <!-- Feature Panel: High-gloss Lacquer or Statuario Marble -->
+  <rect x="66" y="66" width="180" height="150" fill="#F9F9F9"/>
+  <path d="M70 70 Q 100 90 130 70 T 190 80" stroke="#D0D0D0" stroke-width="1" fill="none"/>
+
+  <!-- Vertical Glass Case with Integrated Lighting -->
+  <rect x="260" y="66" width="76" height="150" fill="#1A1A1A" opacity="0.8"/>
+  <rect x="265" y="70" width="2" height="142" fill="#FFD700" opacity="0.4"/>
+
+  <!-- Color Swatches -->
+  <rect x="376" y="36" width="88" height="88" rx="4" fill="#3D3631"/> <!-- Dark Wood -->
+  <rect x="476" y="36" width="88" height="88" rx="4" fill="#F9F9F9"/> <!-- Marble/Gloss -->
+  <rect x="376" y="136" width="88" height="88" rx="4" fill="#2C2C2E"/> <!-- Anthracite -->
+  <rect x="476" y="136" width="88" height="88" rx="4" fill="#B08D57"/> <!-- Burnished Brass -->
+
+  <!-- Flooring: Large Format Tile -->
+  <rect x="36" y="276" width="528" height="20" fill="#C7C7C9"/>
+  <line x1="212" y1="276" x2="212" y2="296" stroke="#B0B0B2" stroke-width="1"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scandinavian expanded palette">
+  <rect width="800" height="320" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111">Scandinavian — 原木北欧</text>
+
+  <g transform="translate(24,48)">
+    <rect x="0" y="0" width="120" height="120" fill="#F8F5EE" stroke="#EFEAE0"/>
+    <text x="0" y="140" font-size="12" fill="#333">米白 / #F8F5EE</text>
+
+    <rect x="140" y="0" width="120" height="120" fill="#F2EDE2" stroke="#E6DED4"/>
+    <text x="140" y="140" font-size="12" fill="#333">奶油 / #F2EDE2</text>
+
+    <rect x="280" y="0" width="120" height="120" fill="#D9B98F" stroke="#CBA97A"/>
+    <text x="280" y="140" font-size="12" fill="#333">暖木 / #D9B98F</text>
+
+    <rect x="420" y="0" width="120" height="120" fill="#C9A97A" stroke="#B58C61"/>
+    <text x="420" y="140" font-size="12" fill="#333">浅枫 / #C9A97A</text>
+
+    <rect x="560" y="0" width="120" height="120" fill="#9BAF9B" stroke="#7F947F"/>
+    <text x="560" y="140" font-size="12" fill="#333">松叶绿 / #9BAF9B</text>
+
+    <rect x="700" y="0" width="80" height="120" fill="#3B3B3B"/>
+    <text x="700" y="140" font-size="12" fill="#FFF">深炭 / #3B3B3B</text>
+  </g>
+</svg>
