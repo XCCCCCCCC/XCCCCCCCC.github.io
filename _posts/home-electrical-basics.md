@@ -887,3 +887,4 @@ $$P = UI = 220 \times 16 = 3520W$$
 如果你想继续把“配电箱里那些参数”看懂，可以接着看这篇配套文章：
 
 - [《家用配电箱与保护器件入门：总开、空开、漏保、RCBO、1P+N、2P、C16、6kA、30mA 到底怎么看》](./home-distribution-panel-basics.md)
+- [《家装网络布线入门：网线、水晶头、超六类与全屋换线、Mesh 或 AC+AP 组网方案》](./home-network-cabling.md)
